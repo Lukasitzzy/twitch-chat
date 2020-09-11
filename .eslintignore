@@ -1,0 +1,8 @@
+# default ignores
+node_modules/*
+**/*/dist/*
+
+# for typescript projects
+*.js
+# for javascript projects
+*.ts
